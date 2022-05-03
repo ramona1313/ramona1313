@@ -1,5 +1,5 @@
 
-- 💞️ I’m looking to collaborate on any intersting project related to the following fields:
+-  I’m looking to collaborate on any intersting project related to the following fields:
 
 Control theory, vehicle dynamics, control system design, signal processing, dynamic system modeling or any other similar topics
 
